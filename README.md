@@ -2,7 +2,7 @@
 
 ## I work for TBC Group with AI to improve the [Youni](https://thisisyouni.co.uk/) iPhone and Android app.
 
-## Ask me about Vote For Product 😎
+## Ask me about VoteForProduct or Zudget 😎
 <!--
 **rlmsinclair/rlmsinclair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
