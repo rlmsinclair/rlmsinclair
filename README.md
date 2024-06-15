@@ -1,4 +1,4 @@
-## Exeter Computer Science undergraduate. I also work for TBC Group with AI.
+## Exeter Computer Science Undergraduate. I also work for TBC Group with AI.
 
 <!--
 **rlmsinclair/rlmsinclair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
