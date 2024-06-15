@@ -1,4 +1,5 @@
-## Exeter Computer Science Undergraduate. I also work for TBC Group with AI to improve the g [Youni](https://thisisyouni.co.uk/) iPhone and Android app.
+## Exeter Computer Science Undergraduate. I also work for TBC Group with AI to improve the [Youni](https://thisisyouni.co.uk/) iPhone and Android app.
+## Ask me about Vote For Product 😎
 <!--
 **rlmsinclair/rlmsinclair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
