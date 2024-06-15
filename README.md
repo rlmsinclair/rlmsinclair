@@ -1,6 +1,6 @@
 # Computer Science Undergraduate at the University of Exeter.
 
-### I work for TBC Group with AI to improve the [Youni](https://thisisyouni.co.uk/) iPhone and Android app.
+### I work for [TBC Group](https://github.com/tbcgroupxyz) with AI to improve the [Youni](https://thisisyouni.co.uk/) iPhone and Android app.
 ### We analyse Instagram caption data in SQL tables with LLMs in Python to list university society events.
 ### Currently I'm training an [intern](https://github.com/surajnagpal).
 ### Ask me about VoteForProduct or Zudget 😎
