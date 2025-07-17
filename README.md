@@ -55,7 +55,7 @@ Co-founded platform helping creators grow and monetize their expertise with AI-p
 
 ## 📊 Quick snapshot
 
-- 🎂 24 years old, London-based
+- 🎂 25 years old, London-based
 - 🏗 **30+** projects shipped
 - 🌩 Experienced with AWS
 - 📹 Loom video connoisseur
