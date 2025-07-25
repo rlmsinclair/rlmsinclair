@@ -1,6 +1,6 @@
 Building: Quantum-proof trust network
 
-Timeline: Encryption breaks in ~5 years
+Timeline: Encryption has already been broken
 
 Domain: thebond.network
 
