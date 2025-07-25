@@ -9,3 +9,5 @@ Traction: Another accelerator already interested
 
 
 Warzone win rate: 50% +
+
+My graph looks the way it does as I have other Github accounts
