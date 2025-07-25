@@ -8,4 +8,4 @@ Traction: Another accelerator already interested
 
 
 
-Warzone win rate: 50%
+Warzone win rate: 50% +
