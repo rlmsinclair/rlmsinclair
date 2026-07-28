@@ -62,4 +62,4 @@ Full-stack engineer building AI-powered products — video-intelligence pipeline
 
 ---
 
-<p align="center"><i>Most of what I build starts as "surely this shouldn't be possible" and ends as a working product.</i></p>
+<p align="center"><i>"What matters most is how well you walk through the fire" - Bukowski</i></p>
