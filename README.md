@@ -49,6 +49,7 @@ Full-stack engineer building AI-powered products — video-intelligence pipeline
 | [zudget](https://github.com/rlmsinclair/zudget) | Hackathon prize-winner: your budget is your casino stake | Flask, PostgreSQL |
 | [casinr](https://github.com/rlmsinclair/casinr_website_react) | Double-or-nothing on Solana with Phantom wallet integration | React, TypeScript, Solana web3.js |
 | [solana-program](https://github.com/rlmsinclair/solana_program) | On-chain coin-flip program betting against a PDA house account | Rust, Solana |
+| [humantyped](https://github.com/rlmsinclair/humantyped-react) | Prove you're human from your keystroke-timing patterns, then share a "verified human" page | React, Flask, PostgreSQL |
 | [VoteForProduct](https://github.com/rlmsinclair/VoteForProduct) | Rank products by value for money with ELO ratings | Flask, Python |
 | [lhc](https://github.com/rlmsinclair/lhc) | Processing 2^4096 states in 25 minutes using the Large Hadron Collider (satire, mostly) | Python |
 
