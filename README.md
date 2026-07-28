@@ -15,7 +15,7 @@ Full-stack engineer building AI-powered products — video-intelligence pipeline
 | [disputer](https://github.com/rlmsinclair/disputer) | Real-time structured debate platform — argue a topic, wager tokens, and Claude judges the winner | Next.js, Socket.io, Prisma, PostgreSQL, Claude |
 | [iamright](https://github.com/rlmsinclair/iamright) | Three Claude advisors (Growth / Finance / People) debate your startup decision live over SSE until they agree | Node, Express, SQLite, Claude, OpenAI |
 | [stream-dashboard](https://github.com/rlmsinclair/stream-dashboard) | Zero-dependency dashboard for multi-platform livestreaming — merged chat, OBS previews, and an MCP server so AI can retitle your stream everywhere at once | Python stdlib, SQLite, Chrome MV3, OBS WebSocket |
-| [wasm-wizard](https://github.com/rlmsinclair/wasm-wizard) | 🧙‍♂️ CLI that makes the WebAssembly Component Model ridiculously easy — scaffold, build, optimize, compose | Rust (crates.io + npm) |
+| [daemon](https://github.com/rlmsinclair/daemon) | Multiplayer game where every player has an LLM-powered dæmon companion with an evolving personality, over real-time chat | Flask-SocketIO, MySQL, Claude / OpenAI |
 
 ## 🤖 AI & agents
 
@@ -28,7 +28,6 @@ Full-stack engineer building AI-powered products — video-intelligence pipeline
 | [humour-montage-maker](https://github.com/rlmsinclair/humour-montage-maker) | API that finds the funniest moments in any video and returns timestamped clips | FastAPI, OpenAI, Gemini, Docker |
 | [events-and-such](https://github.com/rlmsinclair/events_and_such) | Streaming AI search for London events — live web results curated by Claude and streamed back over SSE | Flask, Claude, Playwright, SSE |
 | [trading-scraper](https://github.com/rlmsinclair/trading-scraper) | Concurrent stock-research pipeline generating AI investment summaries for every ticker | Playwright, GPT-4, MySQL, asyncio |
-| [daemon](https://github.com/rlmsinclair/daemon) | Multiplayer 2D game where every player has an LLM-powered dæmon companion with an evolving personality | Flask-SocketIO, MySQL, OpenAI/Claude |
 
 ## 🛠️ Systems & infra
 
